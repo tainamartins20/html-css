@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(75, 75, 201);
+}
+h2 {
+    color: rgb(15, 51, 65);
+}
+p {
+    text-align: justify;
+}
